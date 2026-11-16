@@ -8,3 +8,8 @@
 2026-11-14 23:56:18-root-WARNING-this is a warning message
 2026-11-14 23:56:18-root-ERROR-this is an error message
 2026-11-14 23:56:18-root-CRITICAL-this is a critical message
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
